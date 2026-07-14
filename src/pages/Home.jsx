@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Home/Rumah</h1>
+        <h1>Home Page/Rumah</h1>
     );
 }
 
