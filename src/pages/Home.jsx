@@ -1,6 +1,10 @@
+import Hero from "../components/sections/Hero";
+
 function Home() {
     return (
-        <h1>Home Page/Rumah</h1>
+        <>
+            <Hero />
+        </>
     );
 }
 
